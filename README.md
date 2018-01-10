@@ -1,0 +1,1 @@
+# richnakasato.github.io
