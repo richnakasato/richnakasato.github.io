@@ -1,2 +1,3 @@
 name: Rich Nakasato, Horrible Programmer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
